@@ -1,0 +1,26 @@
+.body {
+    background-color: #27293D;
+}
+
+.formulario {
+    background-color: #27293D;
+    border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border: 0px solid #000000;
+    -webkit-box-shadow: 6px 7px 10px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 6px 7px 10px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 6px 7px 10px 0px rgba(0, 0, 0, 0.75);
+}
+
+h1 {
+    padding-left: 2%;
+}
+
+.dark {
+    background-color: #27293D;
+}
+
+.dark>input {
+    border: solid 1px black;
+}

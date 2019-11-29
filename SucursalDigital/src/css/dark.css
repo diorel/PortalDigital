@@ -1,0 +1,17 @@
+.dark {
+    overflow: auto;
+    background-color: #141B2D;
+    transition: all .5s;
+}
+
+.dark>* {
+    color: white;
+}
+
+.dark>.backNav {
+    background-color: #141B2D;
+}
+
+.dark>header nav {
+    background-color: #141B2D;
+}

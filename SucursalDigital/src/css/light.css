@@ -1,0 +1,13 @@
+.light {
+    background-color: #FBFCFD;
+    transition: all .5s;
+}
+
+.light>* {
+    color: rgb(26, 24, 24) !important;
+    transition: all .5s;
+}
+
+.dark>.backNav {
+    background-color: #FBFCFD;
+}
